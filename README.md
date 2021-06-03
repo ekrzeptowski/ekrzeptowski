@@ -1,7 +1,8 @@
 ## 💻 Tech stack
-- JavaScript (ES2020)
+- JavaScript (ES2020) | TypeScript
 - React.js
 - Node.js | Express
+- Next.js | Gatsby
 
 ## 📈 GitHub Stats
 
